@@ -42,7 +42,7 @@ elevated number of hash collisions, putting the equals implementation under
 heavy strain.
 
 What we need is an operation that doesn't commute with +. My esteemed colleague
-Chris suggested the
+Chris provided an implementation of the
 [Cantor Pairing Function](http://en.wikipedia.org/wiki/Pairing_function#Cantor_pairing_function)
 to generate the Tuple hashCode.
 This did solve the specific performance problem we were facing, but where should
