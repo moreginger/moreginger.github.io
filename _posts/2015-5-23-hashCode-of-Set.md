@@ -59,5 +59,3 @@ same issue, so there is a strong argument for fixing the problem even if we
 don't expect "real" data to trigger it.
 
 As usual, it seems there is no silver bullet!
-
-{% if page.comments %}{% include disqus.html %}{% endif %}
