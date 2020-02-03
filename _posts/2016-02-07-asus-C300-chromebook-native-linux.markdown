@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Native Linux on Chromebook
-comments: true
+date: 2016-02-07 12:00:00 +0000
 ---
 
 If you want to get Linux on a Chromebook, then the awesome [crouton](https://github.com/dnschneid/crouton) should be first on your list. I've used it successfully for the about a year, but it has some drawbacks:
